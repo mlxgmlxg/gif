@@ -1,0 +1,6 @@
+如果win10系统自带的windows defender杀毒软件阻止了下载，请下载文件夹里的一键开启关闭Windows Defender工具。
+下载好后，运行一键开启关闭Windows Defender工具，将Windows Defender关闭后，重启系统，注意，必须要重启系统才能生效。
+接下来就可以顺利的下载并使用microkms_v18.08.09激活工具了！
+
+
+http://www.yishimei.cn/network/319.html
